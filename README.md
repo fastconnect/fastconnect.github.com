@@ -1,1 +1,1 @@
-http://fastconnect.fr
+http://fastconnect.github.com/fastconnect/
